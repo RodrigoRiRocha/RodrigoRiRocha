@@ -17,7 +17,7 @@ Aqui estão alguns dos meus projetos mais recentes:
 
 ## 📫 Contato
 
-- **Email**: seu-email@example.com
+- **Email**: rstuteu@gmal.com
 - **LinkedIn**: [perfil](https://www.linkedin.com/in/rodrigo-ribeiro-da-rocha-9112b8172//)
 
 
