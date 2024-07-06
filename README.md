@@ -1,6 +1,6 @@
 # Olá! 👋
 
-Sou estudante de Análise e Desenvolvimento de Sistemas na Estácio e também faço um curso focado em desenvolvimento Full Stack Python. 
+Sou estudante de Análise e Desenvolvimento de Sistemas na Estácio e também faço um curso focado em desenvolvimento Full Stack Python na EBAC. 
 
 ## 🚀 Habilidades
 
