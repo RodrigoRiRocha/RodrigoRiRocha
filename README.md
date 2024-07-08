@@ -4,12 +4,11 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Estácio e também fa
 
 ## 🚀 Habilidades
 
-- **Linguagens de Programação**: Python, JavaScript
+- **Linguagens de Programação**: Python, JavaScript , Html , CSS
 - **Frameworks e Bibliotecas**:
-  - Front-end: React, HTML5, CSS3
-  - Back-end: Django, Flask
-- **Banco de Dados**: MySQL, PostgreSQL, MongoDB
-- **Ferramentas e Técnicas**: Git, Docker, CI/CD, Testes Unitários, RESTful APIs
+  - Front-end: React, HTML5, CSS3 , JQuery , Bootstrap , SASS , Gulp , Less ,  Grunt , Ajax , Typescript , VueJS , Cypress
+  - Back-end: Django, Docker , Linux
+  - **Ferramentas e Técnicas**: Git, Docker, CI/CD, Testes Unitários, RESTful APIs
 
 ## 📫 Contato
 
