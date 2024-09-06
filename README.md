@@ -1,20 +1,22 @@
 Olá! 👋
 
-💻 Como Desenvolvedor Front-End, estou comprometido em criar soluções web que não só atendam às exigências do mercado, mas também proporcionem uma experiência de usuário excepcional. 
+🚀 Apaixonado por tecnologia e com uma trajetória marcada pela constante busca por aprendizado e desenvolvimento, iniciei minha carreira na área da saúde, onde atuei como Técnico de Enfermagem. Durante essa fase, desenvolvi habilidades essenciais como resolução de problemas e trabalho em equipe, mas percebi que meu verdadeiro interesse estava na tecnologia.
 
-🚀 Em minha jornada, aprimoro constantemente minhas habilidades em tecnologias essenciais como HTML, CSS e JavaScript, utilizando frameworks como jQuery e Bootstrap. 
+📚 Ao ingressar na graduação de Análise e Desenvolvimento de Sistemas pela Estácio, comecei a explorar o universo do desenvolvimento web. Essa experiência me levou a buscar especialização na área de front-end, onde estou desenvolvendo projetos práticos e adquirindo habilidades cada vez mais avançadas.
 
-🎨 Valorizo especialmente o uso de CSS Flexbox e práticas de CSS Responsivo, integrando ferramentas como SASS e LESS para garantir designs acessíveis e modernos.
+🎯 Atualmente, estou cursando Desenvolvimento Full Stack Python pela EBAC, com foco em aprimorar minhas habilidades em front-end e frameworks modernos. Meu objetivo é combinar um design eficiente com uma experiência de usuário de alta qualidade, utilizando as melhores práticas da indústria.
 
-👨‍⚕️ Minha experiência prévia como Técnico de Enfermagem me conferiu habilidades cruciais de resolução de problemas e trabalho em equipe, que aplico em meu desenvolvimento profissional na área de TI. 
+🛠️ Em minhas últimas experiências e projetos acadêmicos, venho aprimorando minhas competências nas seguintes áreas:
 
-🔍 Atualmente, estou aprofundando meus conhecimentos em Python e Django, explorando o desenvolvimento de Rest APIs e a utilização de Docker para integração contínua. ⚙️ Também me dedico a automatizar tarefas com Gulp e Grunt e a dominar práticas de versionamento com Git.
+Desenvolvimento de interfaces responsivas utilizando HTML, CSS e JavaScript;
+Frameworks: Bootstrap, ReactJS ⚛️, VueJS 🖥️;
+Bibliotecas: jQuery, SASS, LESS;
+Automatização de tarefas com Gulp e Grunt;
+Versionamento de código com Git/GitHub 🔧;
+Testes automatizados com Jest e Cypress ✅;
+Desenvolvimento de APIs RESTful e integração com Docker 🐳.
 
-📚 Além disso, estou expandindo meu domínio em JavaScript, desde conceitos avançados como Orientação a Objetos, ES6+ e TypeScript, até frameworks como VueJS e React, com foco em testes E2E utilizando ferramentas como React Testing Library e Cypress. 
-
-🛠️ Complementando essa formação, desenvolvo habilidades em SQL para otimização de consultas e gestão de ambientes. 
-
-🌐 Essa trajetória está me preparando para uma transição completa para o desenvolvimento full-stack, onde aplico esses conhecimentos em projetos práticos, buscando sempre inovação e eficiência.
+💡 Agora, com foco total em Desenvolvimento Front-End, continuo a aprimorar minhas habilidades e aplicar o que aprendo em projetos práticos, buscando sempre soluções que aliem eficiência e inovação.
 
 📫 Contato
 LinkedIn: https://www.linkedin.com/in/rodrigo-ribeiro-da-rocha-9112b8172/
