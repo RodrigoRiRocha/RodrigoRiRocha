@@ -1,16 +1,10 @@
-👋 Olá! Sou desenvolvedor Front-End com foco em criar interfaces web modernas, funcionais e totalmente responsivas.
+👋 Olá! Sou desenvolvedor Full stack.
 
-🛠️ Tecnologias que já domino:
+🛠️ Tecnologias que estou aprimorando no meu curso de desenvolvedor Full Stack:
 
-Bootstrap e jQuery para agilizar a construção de sites dinâmicos e responsivos.
-
-🚀 O que estou aprendendo:
-
-ReactJS e VueJS, buscando sempre aprimorar minhas habilidades e adotar as tecnologias mais atuais.
-
-🔧 Outras habilidades:
-
-Pré-processadores: SASS, LESS – para um CSS mais eficiente.
+Bootstrap e jQuery.
+ReactJS e VueJS.
+SASS, LESS – para um CSS mais eficiente.
 Automatização: Gulp, Grunt – otimizando fluxos de trabalho.
 Versionamento: Git/GitHub – para colaboração ágil.
 Testes: Cypress – garantindo a qualidade do código.
