@@ -1,4 +1,4 @@
-👋 Olá! Sou desenvolvedor Full stack.
+👋 Olá! Sou desenvolvedor Full stack em transição de carreira da saude para TI.
 
 🛠️ Tecnologias que estou aprimorando no meu curso de desenvolvedor Full Stack:
 
