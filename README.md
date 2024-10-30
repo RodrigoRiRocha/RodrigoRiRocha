@@ -1,29 +1,13 @@
-👋 Olá! Sou desenvolvedor Full stack em transição de carreira da saude para TI.
+Olá! Sou Rodrigo, um desenvolvedor Front-End em transição de carreira da área da saúde para o desenvolvimento de software.
 
-🛠️ Tecnologias que estou aprimorando no meu curso de desenvolvedor Full Stack:
+🛠️ Atualmente, estou me aprimorando nas seguintes tecnologias:
 
-Bootstrap e jQuery;
+JavaScript (ES6+) e TypeScript: Construo aplicações web modernas e escaláveis.
 
-ReactJS e VueJS,
+React e Vue.js: Desenvolvimento de interfaces dinâmicas e interativas.
 
-SASS, LESS – para um CSS mais eficiente,
+SASS: Utilizo pré-processadores para otimizar e organizar o CSS.
 
-Automatização: Gulp, Grunt – otimizando fluxos de trabalho,
+Cypress: Implemento testes para garantir qualidade e funcionalidade.
 
-Versionamento: Git/GitHub – para colaboração ágil,
-
-Testes: Cypress – garantindo a qualidade do código,
-
-APIs RESTful e Docker – para integração backend.
-
-✨ Motivação constante: Estou sempre aprendendo e buscando novas formas de entregar soluções de alta qualidade.
-
-📩 Se gostou do meu perfil, será um prazer conversar e compartilhar como posso contribuir para o seu time!
-
-📫 Contato
-LinkedIn: https://www.linkedin.com/in/rodrigo-ribeiro-da-rocha-9112b8172/
-
-Email: rstuteu@gmail.com
-
-Obrigado por visitar meu perfil! 🚀
-
+💻 Após 6 anos de experiência na área da saúde, estou me dedicando ao desenvolvimento Front-End. Estou cursando Desenvolvimento Full Stack Python pela EBAC e estudando Análise e Desenvolvimento de Sistemas na Estácio, ampliando minhas competências técnicas. Estou praticando intensamente para aplicar esses conhecimentos em projetos reais.
