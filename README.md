@@ -1,13 +1,14 @@
-Olá! Sou Rodrigo, um desenvolvedor Front-End em transição de carreira da área da saúde para o desenvolvimento de software.
+👋 Olá! Eu sou o Rodrigo, um desenvolvedor em transição de carreira da área da saúde para o mundo do desenvolvimento de software. 🚀
 
-🛠️ Atualmente, estou me aprimorando nas seguintes tecnologias:
+🛠️ Tecnologias e linguagens que estou aprendendo:
 
-JavaScript (ES6+) e TypeScript: Construo aplicações web modernas e escaláveis.
+HTML 🌐
+CSS 🎨
+JavaScript 💻
+Python 🐍
+Docker 🐳
+SQL 📊
 
-React e Vue.js: Desenvolvimento de interfaces dinâmicas e interativas.
+💡 Após 6 anos de experiência na área da saúde, estou mergulhando de cabeça no desenvolvimento Full Stack! Para isso, estou cursando Desenvolvimento Full Stack Python pela EBAC e também estou estudando Análise e Desenvolvimento de Sistemas na Estácio, expandindo meus conhecimentos técnicos todos os dias.
 
-SASS: Utilizo pré-processadores para otimizar e organizar o CSS.
-
-Cypress: Implemento testes para garantir qualidade e funcionalidade.
-
-💻 Após 6 anos de experiência na área da saúde, estou me dedicando ao desenvolvimento Front-End. Estou cursando Desenvolvimento Full Stack Python pela EBAC e estudando Análise e Desenvolvimento de Sistemas na Estácio, ampliando minhas competências técnicas. Estou praticando intensamente para aplicar esses conhecimentos em projetos reais.
+🔄 Estou sempre praticando, buscando aplicar o que aprendo em projetos reais, porque acredito que a prática é essencial para o crescimento contínuo! 🚀
