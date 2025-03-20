@@ -23,15 +23,9 @@
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 - ![Metodologias Ágeis](https://img.shields.io/badge/-Metodologias%20Ágeis-0052CC?logo=agile&logoColor=white)
 
-## 📊 Tecnologias Mais Utilizadas
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoRiRocha&layout=compact&theme=dark" alt="Top Langs">
-</div>
 
-## 🏆 Conquistas
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RodrigoRiRocha&theme=darkhub&no-frame=true&column=4" alt="GitHub Trophies">
-</div>
+
+
 
