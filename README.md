@@ -2,10 +2,6 @@
 
 Bem-vindo ao meu perfil GitHub! Aqui você encontrará informações sobre minhas habilidades e projetos. 
 
-## 🚀 Sobre Mim
-
-Sou um desenvolvedor apaixonado por tecnologia e programação. Adoro aprender novas linguagens e frameworks, e colaborar em projetos open-source.
-
 ## 🔧 Tecnologias e Ferramentas
 
 ![React.js](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=white)
