@@ -1,3 +1,6 @@
+![Blue Modern Corporate Staff Profile LinkedIn Banner](https://github.com/user-attachments/assets/8d06c741-71ea-456f-8e07-9e6f5580c475)
+
+
 # Olá! Eu sou o Rodrigo Rocha 👋
 
 Bem-vindo ao meu perfil GitHub! Aqui você encontrará informações sobre minhas habilidades e projetos. 
