@@ -21,9 +21,6 @@ Bem-vindo ao meu perfil GitHub! Aqui você encontrará informações sobre minha
 ![React Testing Library](https://img.shields.io/badge/-React%20Testing%20Library-E33332?logo=testing-library&logoColor=white)
 ![Metodologias Ágeis](https://img.shields.io/badge/-Metodologias%20Ágeis-0052CC?logo=agile&logoColor=white)
 
-## 📈 Estatísticas GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=RodrigoRiRocha&show_icons=true&theme=radical)
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigorirocha&layout=compact&langs_count=7&theme=dracula"/>
 
 ## 📫 Contato
