@@ -1,4 +1,5 @@
-![Blue Modern Corporate Staff Profile LinkedIn Banner](https://github.com/user-attachments/assets/8d06c741-71ea-456f-8e07-9e6f5580c475)
+
+![capa linkedin](https://github.com/user-attachments/assets/f1b9745e-cdeb-4585-ac63-e2dd74190ee5)
 
 
 # Olá! Eu sou o Rodrigo Rocha 👋
