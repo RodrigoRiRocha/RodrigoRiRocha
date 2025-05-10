@@ -1,5 +1,5 @@
 
-![capa linkedin](https://github.com/user-attachments/assets/f1b9745e-cdeb-4585-ac63-e2dd74190ee5)
+![assets_task_01jtx8pm8geha8wr1h9230c7t8_1746886504_img_1](https://github.com/user-attachments/assets/2e2d1498-76e4-4351-afdc-8a6aa76287a4)
 
 
 # Olá! Eu sou o Rodrigo Rocha 👋
