@@ -1,32 +1,92 @@
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/2e2d1498-76e4-4351-afdc-8a6aa76287a4" alt="Rodrigo Rocha - Full Stack Developer" width="800">
 
-![assets_task_01jtx8pm8geha8wr1h9230c7t8_1746886504_img_1](https://github.com/user-attachments/assets/2e2d1498-76e4-4351-afdc-8a6aa76287a4)
+  <h1 style="color: #FF4500; font-family: 'Orbitron', sans-serif; text-shadow: 0 0 10px #FF4500;">
+    Rodrigo Rocha
+  </h1>
 
+  <h3 style="color: #FFFFFF; font-family: 'Roboto Mono', monospace; text-shadow: 0 0 5px #FF4500;">
+    Full Stack Developer
+  </h3>
+</div>
 
-# Olá! Eu sou o Rodrigo Rocha 👋
+---
 
-Bem-vindo ao meu perfil GitHub! Aqui você encontrará informações sobre minhas habilidades e projetos. 
+<div align="center">
+  <p style="color: #FFFFFF; font-family: 'Roboto Mono', monospace; font-size: 1.2em;">
+    Bem-vindo ao meu perfil GitHub! Explore minhas habilidades e tecnologias demonstradas abaixo.
+  </p>
+</div>
 
-## 🔧 Tecnologias e Ferramentas
+---
 
-![React.js](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
-![APIs REST](https://img.shields.io/badge/-APIs%20REST-000000?logo=api&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
-![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white)
-![React Testing Library](https://img.shields.io/badge/-React%20Testing%20Library-E33332?logo=testing-library&logoColor=white)
-![Metodologias Ágeis](https://img.shields.io/badge/-Metodologias%20Ágeis-0052CC?logo=agile&logoColor=white)
+## <div align="center"><span style="color: #FF4500; font-family: 'Orbitron', sans-serif;">✨ Tecnologias </span></div>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigorirocha&layout=compact&langs_count=7&theme=dracula"/>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+        <br><span style="color: #FF4500;">JavaScript</span>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+        <br><span style="color: #FF4500;">CSS3</span>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
+        <br><span style="color: #FF4500;">HTML5</span>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50"/>
+        <br><span style="color: #FF4500;">Bootstrap</span>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="50" height="50"/>
+        <br><span style="color: #FF4500;">Vue.js</span>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="50" height="50"/>
+        <br><span style="color: #FF4500;">React.js</span>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+        <br><span style="color: #FF4500;">Python</span>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="50" height="50"/>
+        <br><span style="color: #FF4500;">Django</span>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
+        <br><span style="color: #FF4500;">Docker</span>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
+        <br><span style="color: #FF4500;">Linux</span>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
+        <br><span style="color: #FF4500;">MySQL</span>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
+        <br><span style="color: #FF4500;">PostgreSQL</span>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker Compose" width="50" height="50"/>
+        <br><span style="color: #FF4500;">Docker Compose</span>
+      </td>
+    </tr>
+  </table>
+</div>
 
-## 📫 Contato
+---
 
-- Email: rstuteu@gmail.com
-- LinkedIn: [Rodrigo Ribeiro da Rocha](https://www.linkedin.com/in/rodrigo-ribeiro-da-rocha-9112b8172/)
-
-Obrigado por visitar o meu perfil!
+<p align="center" style="color: #FF4500; font-family: 'Roboto Mono', monospace; font-size: 1.2em;">
+  Obrigado por visitar o meu perfil!
+</p>
