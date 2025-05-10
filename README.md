@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/2e2d1498-76e4-4351-afdc-8a6aa76287a4" alt="Rodrigo Rocha - Full Stack Developer" width="800">
+  <!-- Diminui a altura e aumentei a largura -->
+  <img src="https://github.com/user-attachments/assets/2e2d1498-76e4-4351-afdc-8a6aa76287a4" alt="Rodrigo Rocha - Full Stack Developer" width="1000" height="400">
 
   <h1 style="color: #FF4500; font-family: 'Orbitron', sans-serif; text-shadow: 0 0 10px #FF4500;">
     Rodrigo Rocha
@@ -80,6 +81,16 @@
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker Compose" width="50" height="50"/>
         <br><span style="color: #FF4500;">Docker Compose</span>
+      </td>
+      <!-- Novo: ChatGPT -->
+      <td align="center">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" width="50" height="50"/>
+        <br><span style="color: #FF4500;">ChatGPT</span>
+      </td>
+      <!-- Novo: VSCode -->
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
+        <br><span style="color: #FF4500;">VS Code</span>
       </td>
     </tr>
   </table>
