@@ -1,6 +1,5 @@
 <div align="center">
-  <!-- Diminui a altura e aumentei a largura -->
-  <img src="https://github.com/user-attachments/assets/2e2d1498-76e4-4351-afdc-8a6aa76287a4" alt="Rodrigo Rocha - Full Stack Developer" width="1000" height="400">
+
 
   <h1 style="color: #FF4500; font-family: 'Orbitron', sans-serif; text-shadow: 0 0 10px #FF4500;">
     Rodrigo Rocha
