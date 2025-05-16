@@ -1,12 +1,10 @@
 <div align="center">
-
-
   <h1 style="color: #FF4500; font-family: 'Orbitron', sans-serif; text-shadow: 0 0 10px #FF4500;">
     Rodrigo Rocha
   </h1>
 
   <h3 style="color: #FFFFFF; font-family: 'Roboto Mono', monospace; text-shadow: 0 0 5px #FF4500;">
-    Full Stack Developer
+    Front-end Developer
   </h3>
 </div>
 
@@ -52,44 +50,13 @@
         <br><span style="color: #FF4500;">React.js</span>
       </td>
       <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-        <br><span style="color: #FF4500;">Python</span>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="50" height="50"/>
-        <br><span style="color: #FF4500;">Django</span>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
-        <br><span style="color: #FF4500;">Docker</span>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
-        <br><span style="color: #FF4500;">Linux</span>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
-        <br><span style="color: #FF4500;">MySQL</span>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
-        <br><span style="color: #FF4500;">PostgreSQL</span>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker Compose" width="50" height="50"/>
-        <br><span style="color: #FF4500;">Docker Compose</span>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
+        <br><span style="color: #FF4500;">VS Code</span>
       </td>
       <!-- Novo: ChatGPT -->
       <td align="center">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" width="50" height="50"/>
         <br><span style="color: #FF4500;">ChatGPT</span>
-      </td>
-      <!-- Novo: VSCode -->
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
-        <br><span style="color: #FF4500;">VS Code</span>
       </td>
     </tr>
   </table>
