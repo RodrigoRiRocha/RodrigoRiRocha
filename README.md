@@ -4,7 +4,7 @@
   </h1>
 
   <h3 style="color: #FFFFFF; font-family: 'Roboto Mono', monospace; text-shadow: 0 0 5px #FF4500;">
-    Front-end Developer
+    Full Stack Developer
   </h3>
 </div>
 
@@ -50,6 +50,30 @@
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="50" height="50"/><br>
         <span style="color: #FF4500;">React.js</span>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/><br>
+        <span style="color: #FF4500;">Node.js</span>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="50" height="50"/><br>
+        <span style="color: #FF4500;">Express</span>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/><br>
+        <span style="color: #FF4500;">Python</span>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/><br>
+        <span style="color: #FF4500;">PostgreSQL</span>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/><br>
+        <span style="color: #FF4500;">MongoDB</span>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/><br>
+        <span style="color: #FF4500;">Docker</span>
       </td>
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/><br>
