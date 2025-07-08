@@ -1,19 +1,6 @@
 
 ![1751108563147](https://github.com/user-attachments/assets/205dfaea-f56f-4591-b8ec-e7216e6254d2)
 
-
-<div align="center">
-  <h1 style="color: #FF4500; font-family: 'Orbitron', sans-serif; text-shadow: 0 0 10px #FF4500;">
-    Rodrigo Rocha
-  </h1>
-
-  <h3 style="color: #FFFFFF; font-family: 'Roboto Mono', monospace; text-shadow: 0 0 5px #FF4500;">
-    Full Stack Developer
-  </h3>
-</div>
-
----
-
 <div align="center">
   <p style="color: #FFFFFF; font-family: 'Roboto Mono', monospace; font-size: 1.2em;">
     Bem-vindo ao meu perfil GitHub! Explore minhas habilidades e tecnologias demonstradas abaixo.
